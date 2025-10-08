@@ -1,0 +1,16 @@
+MY CALORIE DIARY
+================
+Date: 2025-10-8 21:48
+Daily limit: 1000.0
+
+MEALS:
+------
+Lunch: 300.0 calories
+Snacks: 100.0 calories
+Dinner: 400.0 calories
+
+TOTAL: 800.0 calories
+AVERAGE: 266.6666666666667 calories per meal
+
+STATUS: UNDER LIMIT
+================
